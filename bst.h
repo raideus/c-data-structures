@@ -19,8 +19,4 @@ extern BST* BST_new();
 extern BTNode* BST_search(BST *t, int val);
 extern bool BST_insert(BST *t, BTNode *node)
 
-// TODO
-// extern void BST_remove(BST *t, int val);
-// extern void BST_delete(BST *t);
-
 #endif

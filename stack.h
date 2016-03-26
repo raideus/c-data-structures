@@ -1,3 +1,15 @@
+/*****************************************************************************
+ **
+ ** stack.h
+ ** 
+ ** Structure and interface definitions for Stack, a polymorphic LIFO
+ ** data structure
+ ** 
+ ** Author: Sean Butze
+ **
+ ****************************************************************************/
+
+
 #include "node.h"
 
 #ifndef STACK_H

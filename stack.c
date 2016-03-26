@@ -1,9 +1,13 @@
-/*
- * stack.c
- *
- * A polymorphic stack data structure
- *
- */
+/*****************************************************************************
+ **
+ ** stack.c
+ ** 
+ ** Function implementations for Stack, a polymorphic LIFO data structure
+ ** 
+ ** Author: Sean Butze
+ **
+ ****************************************************************************/
+
 
 #include <assert.h>
 #include <stdlib.h>

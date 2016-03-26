@@ -1,9 +1,12 @@
-/*
- * queue.c
- *
- * A polymorphic queue data structure
- *
- */
+/*****************************************************************************
+ **
+ ** queue.c
+ ** 
+ ** Function implementations for Queue, a polymorphic FIFO data structure
+ ** 
+ ** Author: Sean Butze
+ **
+ ****************************************************************************/
 
 #include <assert.h>
 #include <stdlib.h>

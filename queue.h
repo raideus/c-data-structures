@@ -1,9 +1,14 @@
-/*
- * queue.h
- *
- * A polymorphic queue data structure
- *
- */
+/*****************************************************************************
+ **
+ ** queue.h
+ ** 
+ ** Structure and interface definitions for Queue, a polymorphic FIFO
+ ** data structure
+ ** 
+ ** Author: Sean Butze
+ **
+ ****************************************************************************/
+
 
 #include "node.h"
 
